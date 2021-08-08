@@ -9,9 +9,9 @@
 <details>
   <summary><b>CONTACT ME</b></summary><br>
 
-  - <a href="https://www.facebook.com/100023344580184"/><img alt="Rizky Facebook" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /><b>Add</b></a><br>
-  - <a href="https://t.me/Rizky1504"/><img alt="Rizky Telegram" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /><b>Chat</b></a><br>
-  - <a href="https://instagram.com/riskidarmawan_15"/><img alt="Rizky Instagram" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /><b> Follow</b></a>
-  - <a href="https://wa.me/6285229323951"/><img alt="Fall WhatsApp" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /><b> Chat</b></a>
+  - <a href="https://www.facebook.com/100023344580184"/><img alt="Rizky Facebook" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /><b>Facebook</b></a><br>
+  - <a href="https://t.me/Rizky1504"/><img alt="Rizky Telegram" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /><b>Telegram</b></a><br>
+  - <a href="https://instagram.com/riskidarmawan_15"/><img alt="Rizky Instagram" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /><b> Instagram</b></a>
+  - <a href="https://wa.me/6285229323951"/><img alt="Fall WhatsApp" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /><b> WhatsApp</b></a>
   </p>
 </details>
